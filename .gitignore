@@ -43,3 +43,7 @@ docs/
 
 # Packaging metadata
 pico.egg-info/
+
+# claude
+.claude/
+CLAUDE.md
