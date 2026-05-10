@@ -47,3 +47,5 @@ pico.egg-info/
 # claude
 .claude/
 CLAUDE.md
+
+.env
